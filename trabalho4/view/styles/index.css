@@ -1,0 +1,59 @@
+body{
+	background-repeat: repeat;
+	background-image: url(../images/pattern100.png);
+	font-family: mitr-lig;
+}
+.container{
+	width: 1200px;
+	height: 968px;
+	margin: auto;
+	background-color: #09102d;
+
+}
+.header1{
+	width: 1080px;
+	height: 120px;
+	float: left;
+	margin: 0;
+	background-color: #1d2e42;
+}
+.header2{
+	width: 120px;
+	height: 120px;
+	float: right;
+	margin: 0;
+	background-color: #1d2e42;
+	color: #09102d;
+}
+.menu1{
+	width: 48px;
+	height: 752px;
+	float: left;
+	background-color: #1d2e42;
+}
+.menu2{
+	width: 48px;
+	height: 48px;
+	float: left;
+	background-color: #1d2e42;
+}
+.contents{
+	width: 1152px;
+	height: 800px;
+	float: right;
+	background-color: #ffd05b;
+}
+.footer{
+	width: 1200px;
+	text-align: center;
+	color: #2b3b4f;
+}
+
+@font-face {
+    font-family: mitr-reg;
+    src: url(../fonts/mitr/Mitr-Regular.ttf);
+}
+@font-face {
+    font-family: mitr-lig;
+    src: url(../fonts/mitr/Mitr-Light.ttf);
+}

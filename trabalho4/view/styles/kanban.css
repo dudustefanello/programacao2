@@ -1,0 +1,51 @@
+body{
+	background-repeat: repeat;
+	background-image: url(../images/pattern100.png);
+	font-family: mitr-lig;
+}
+.pendente{
+	height: 800px;
+	width: 288px;
+}
+.analise{
+	margin-top: -800px;
+	margin-left: 288px;
+	height: 800px;
+	width: 288px;
+}
+.concluido{
+	margin-top: -800px;
+	margin-left: 864px;
+	height: 800px;
+	width: 288px;
+}
+.parado{
+	margin-top: -800px;
+	margin-left: 576px;
+	height: 800px;
+	width: 288px;
+}
+.conteudo{
+	height: 730px;
+	width: 1132px;
+	background-color: #feffd4;
+	padding: 10px;
+}
+.contents{
+	background-color: #feffd4;
+}
+table {
+	font-family: arial, sans-serif;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td, th {
+	text-align: center;
+	border: 1px solid #dddddd;
+	padding: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #dddddd;
+}

@@ -1,0 +1,41 @@
+.container{
+	width: 1200px;
+	height: 968px;
+	margin: auto;
+	background-color: #09102d;
+
+}
+.header1{
+	width: 1080px;
+	height: 120px;
+	float: left;
+	margin: 0;
+	background-color: #09102d;
+}
+.header2{
+	width: 120px;
+	height: 120px;
+	float: right;
+	margin: 0;
+	background-color: #09102d;
+}
+body{
+	background-repeat: repeat;
+	background-image: url(../images/pattern100.png);
+	font-family: mitr-lig;
+}
+.contents{
+	width: 1152px;
+	height: 800px;
+	float: right;
+      color: #ffd151;
+}
+
+@font-face {
+    font-family: mitr-reg;
+    src: url(../fonts/mitr/Mitr-Regular.ttf);
+}
+@font-face {
+    font-family: mitr-lig;
+    src: url(../fonts/mitr/Mitr-Light.ttf);
+}

@@ -1,0 +1,10 @@
+.window1{
+	width: 100%;
+	height: 100%;
+	background-color: #faf8ef;
+}
+.window2{
+	width: 100%;
+	height: 100%;
+	float: right;
+}

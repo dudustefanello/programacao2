@@ -1,0 +1,27 @@
+.window{
+  background-color: #ffd05b;
+  padding-top: 20px;
+  padding-right: 70px;
+  padding-bottom: 20px;
+  padding-left: 70px;
+  color: #09102d;
+}
+h1{
+  text-align: center;
+}
+.headerX{
+  width: 1080px;
+  margin: auto;
+  background-color: #1d2e42;
+}
+.containerX{
+  max-width: 1080px;
+  margin: auto;
+}
+.poster{
+  float: left;
+  padding-right: 45px;
+}
+.meutexto{
+  text-align: justify;
+}
